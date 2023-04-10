@@ -1,6 +1,10 @@
 WORKSPACE?=${shell pwd}
 PYEXE?=python3
+VERSION := $(shell grep -o '^version="[^"]*"' assets/descriptor.mod | sed 's/version="//;s/"$$//')
 
+.PHONY: version
+version:
+	@echo $(VERSION)
 
 .PHONY: build
 build_osiris:
@@ -8,7 +12,9 @@ build_osiris:
 
 .PHONY: deployable
 deployable:
+
+	mkdir -p mod deployables
 	cp assets/* mod/osiris_namelists
-	cd mod && zip -r ../deployables/osiris_namelists_v5_rc.zip * -x "*.DS_Store"
+	cd mod && zip -r "../deployables/osiris_namelists_${VERSION}.zip" * -x "*.DS_Store"
 
 release: build deployable
