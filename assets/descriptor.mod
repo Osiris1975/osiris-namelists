@@ -1,0 +1,15 @@
+name="Osiris's Namelists for Stellaris"
+tags={
+	"Names"
+	"Namelists"
+	"Osiris"
+	"Flavor"
+	"Historical"
+	"Variety"
+	"Species"
+	"Spaceships"
+	"Empires"
+}
+version="V5.0"
+supported_version="3.7.*"
+remote_file_id="2936596940"
