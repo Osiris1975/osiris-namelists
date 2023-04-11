@@ -1,4 +1,4 @@
-[h1]Osiris's Namelist Mod V5.0 (NSC Compatible)[/h1]
+[h1]Osiris's Namelist Mod V5.1 (NSC Compatible)[/h1]
 [h3]If you like this mod, please rate/like/favorite![/h3]
 
 Citizens of the world, rejoice! Fully translated versions of Osiris's Namelists for Stellaris are here! No more namelist FOMO for non-English speakers. These fully up-to-date mod brings you namelists inspired by ancient and modern history as well as popular science-fiction franchises, all powered by happy  and ever-lasting alliance between human creativity and modern AI and language processing!
