@@ -10,6 +10,6 @@ tags={
 	"Spaceships"
 	"Empires"
 }
-version="V5.0"
+version="V5.1"
 supported_version="3.7.*"
 remote_file_id="2936596940"

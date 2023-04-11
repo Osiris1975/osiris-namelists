@@ -14,7 +14,7 @@ build_osiris:
 deployable:
 
 	mkdir -p mod deployables
-	cp assets/* mod/osiris_namelists
+	cp -f assets/* mod/osiris_namelists
 	cd mod && zip -r "../deployables/osiris_namelists_${VERSION}.zip" * -x "*.DS_Store"
 
 release: build deployable
