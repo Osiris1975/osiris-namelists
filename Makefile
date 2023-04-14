@@ -7,8 +7,8 @@ version:
 	@echo $(VERSION)
 
 .PHONY: build
-build_osiris:
-	${PYEXE} ../namelist-mod-gen/namelist_mod_gen/namelist_mod_gen.py mod mod -n csv/osiris_namelists -m osiris_namelists -a osiris -t
+build:
+	${PYEXE} ../namelist-mod-gen/namelist_mod_gen/namelist_mod_gen.py mod mod/ -n csv/ -m osiris_namelists -a osiris -t -i
 
 .PHONY: deployable
 deployable:

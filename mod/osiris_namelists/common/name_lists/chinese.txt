@@ -1,4 +1,4 @@
-﻿### Chinese
+﻿### Chinese (ONL)
 ### Created by osiris
 
 osiris_chinese = {
