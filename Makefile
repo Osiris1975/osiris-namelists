@@ -12,7 +12,7 @@ build:
 
 .PHONY: deployable
 deployable:
-
+	find . -type f -name '*DS_Store' -delete
 	mkdir -p mod deployables
 	cp -f assets/* mod/osiris_namelists
 	cd mod && zip -r "../deployables/osiris_namelists_${VERSION}.zip" * -x "*.DS_Store"
