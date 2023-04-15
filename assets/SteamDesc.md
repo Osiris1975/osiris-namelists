@@ -1,12 +1,13 @@
-[h1]Osiris's Namelist Mod V6.0 (NSC Compatible)[/h1]
+[h1]Osiris's Namelist Mod V6.1 (NSC Compatible)[/h1]
 [h3]If you like this mod, please rate/like/favorite![/h3]
 [h3]compatível com português - compatible français - deutsch kompatibel - 日本語対応 - 한국어 호환 - kompatybilny z językiem polskim - русский совместимый - 兼容的 - Español compatible[/h3]
 
 [hr][/hr]
-[h1]New in V6.0[/h1]
+[h1]New in V6.*[/h1]
 - [b]Native American Namelist[/b]: Based on various indingenous cultures from the Americas.
 - [b]Culture-esque Namelist[/b]: Names from Ian M. Bank's Culture Series. I added more names that followed the naming patterns from the novels and used those and the originals to prompt ChatGPT for similar ones. 
 - [b]Chinese Namelist[/b]: Names based on Chinese culture using mythology, prominent figures, cities, and geography as inspiration.
+- Fixed missing apostraphes in Ancient Egypt namelist.
 - Full translated versions of all namelists.
 
 [hr][/hr]
