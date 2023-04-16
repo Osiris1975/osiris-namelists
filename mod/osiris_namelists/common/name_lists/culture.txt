@@ -98,7 +98,6 @@ osiris_culture = {
 
 	fleet_names = {
 		random_names = {
-			OSIRIS_CULTURE_FN_RANDOM_NAMES_MISTAKE_NOT OSIRIS_CULTURE_FN_RANDOM_NAMES_ENDLESS_SEARCH
 		}
 		sequential_name = OSIRIS_CULTURE_FN_FLEET_NAMES
 	}
