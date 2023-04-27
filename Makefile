@@ -8,6 +8,7 @@ version:
 
 .PHONY: build
 build:
+	find . -type f -name 'osiris_namelist*' -delete
 	${PYEXE} ../namelist-mod-gen/namelist_mod_gen/namelist_mod_gen.py mod mod/ -n csv/ -m osiris_namelists -a osiris -t -i
 
 .PHONY: deployable
