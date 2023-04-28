@@ -2,3 +2,5 @@
 /deployables/
 /dist/
 /assets/osiris_namelists.png
+/mod/osiris_namelists/._*
+csv/._*
