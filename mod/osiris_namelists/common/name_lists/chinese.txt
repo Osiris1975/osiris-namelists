@@ -75,6 +75,10 @@ osiris_chinese = {
 			OSIRIS_CHINESE_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_CHINESE_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_CHINESE_SN_MILITARY_STATION_SMALL
 		}

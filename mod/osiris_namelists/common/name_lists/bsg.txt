@@ -75,6 +75,10 @@ osiris_bsg = {
 			OSIRIS_BSG_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_BSG_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_BSG_SN_MILITARY_STATION_SMALL
 		}

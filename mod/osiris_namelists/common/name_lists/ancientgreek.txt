@@ -75,6 +75,10 @@ osiris_ancientgreek = {
 			OSIRIS_ANCIENTGREEK_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_ANCIENTGREEK_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_ANCIENTGREEK_SN_MILITARY_STATION_SMALL
 		}

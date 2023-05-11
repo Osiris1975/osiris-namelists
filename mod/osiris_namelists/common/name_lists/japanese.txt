@@ -75,6 +75,10 @@ osiris_japanese = {
 			OSIRIS_JAPANESE_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_JAPANESE_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_JAPANESE_SN_MILITARY_STATION_SMALL
 		}
