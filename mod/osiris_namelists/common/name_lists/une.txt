@@ -75,6 +75,10 @@ osiris_une = {
 			OSIRIS_UNE_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_UNE_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_UNE_SN_MILITARY_STATION_SMALL
 		}

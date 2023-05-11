@@ -3,10 +3,16 @@
 [h3]compatível com português - compatible français - deutsch kompatibel - 日本語対応 - 한국어 호환 - kompatybilny z językiem polskim - русский совместимый - 兼容的 - Español compatible[/h3]
 
 [hr][/hr]
-[h1]New Namelists in V7.*[/h1]
-- [b]Megacorp[/b]: Go-Getters will see the Value Add of this namelist and be sure to Disrupt their empires stagnant naming strategies with this list.
-- [b]Japanese[/b]: Names based on Japanese culture, people, places, and mythology. 
-- [b]Sci-Fi TV Mashup[/b]: A mashup of names from Star Wars, Star Trek, and Battlestar Galactica (may expand to include other shows in the future of requested).
+[h1]Released in V8.*[/h1]
+- [b]African[/b]: Names reflecting the rich tapestry of the Bantu, Massai, Zulu and other sub-Saharan African cultures.
+- [b]Sci-Fi Novel Mashup[b]: Names from numerous sci-fi novels including the Revelation Space, Dune Series, Gap Series, the Expanse and others. 
+- [b]Grand US Namelist[/b]: Updated version of Azrael's Grand US Namelist[u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Grand US Namelist[/url][/u] with updated NSC support and translation. 
+
+- [hr][/hr]
+[h1]Coming in V9.*[/h1]
+- [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
+- [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelistt[/url][/u] with updated NSC support and translation. 
+
 
 [hr][/hr]
 [h1]Description[/h1]
@@ -48,6 +54,11 @@ The currently available namelists and their respective themes are as follows:
 - [b]Sci-Fi TV Mashup[/b]: A mashup of names from Star Wars, Star Trek, and Battlestar Galactica (may expand to include other shows in the future of requested).
 - [b]Translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
 
+[hr][/hr]
+[h1]Namelist Requests[/h1]
+
+I'm happy to fulfill namelist requests when possible. Just post a request below. If you'd like to contribute a namelist 
+yourself, all you need to know how to do is fill out a spreadsheet, and namelist-mod-gen and I will do the rest.
 
 [hr][/hr]
 [h1]Namelist-Mod-Gen[/h1]
@@ -55,7 +66,7 @@ The currently available namelists and their respective themes are as follows:
 This mod and translations were created with tool I created in Python. It's publicly available and free to use and can be found here:
 [u][url=https://github.com/Osiris1975/namelist-mod-gen]Namelist-Mod-Gen[/url][/u]. 
 
-I'm also happy to fulfill namelist requests when possible. Just post a request below. 
+
 
 [hr][/hr]
 [h1]References[/h1]

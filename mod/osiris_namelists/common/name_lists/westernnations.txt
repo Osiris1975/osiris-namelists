@@ -75,6 +75,10 @@ osiris_westernnations = {
 			OSIRIS_WESTERNNATIONS_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_WESTERNNATIONS_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			OSIRIS_WESTERNNATIONS_SN_MILITARY_STATION_SMALL
 		}

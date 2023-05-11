@@ -75,6 +75,10 @@ osiris_nature = {
 			
 		}
 
+        headquarters = {
+			
+        }
+
 		military_station_small = {
 			
 		}

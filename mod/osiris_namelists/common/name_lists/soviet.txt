@@ -75,6 +75,10 @@ osiris_soviet = {
 			OSIRIS_SOVIET_SN_TRANSPORT
 		}
 
+        headquarters = {
+			OSIRIS_SOVIET_SN_HEADQUARTERS
+        }
+
 		military_station_small = {
 			
 		}

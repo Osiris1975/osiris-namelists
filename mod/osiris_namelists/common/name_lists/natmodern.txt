@@ -75,6 +75,10 @@ osiris_natmodern = {
 			
 		}
 
+        headquarters = {
+			
+        }
+
 		military_station_small = {
 			
 		}
