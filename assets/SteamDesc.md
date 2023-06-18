@@ -3,15 +3,23 @@
 [h3]compatível com português - compatible français - deutsch kompatibel - 日本語対応 - 한국어 호환 - kompatybilny z językiem polskim - русский совместимый - 兼容的 - Español compatible[/h3]
 
 [hr][/hr]
-[h1]Released in V8.*[/h1]
-- [b]African[/b]: Names reflecting the rich tapestry of the Bantu, Massai, Zulu and other sub-Saharan African cultures.
-- [b]Sci-Fi Novel Mashup[b]: Names from numerous sci-fi novels including the Revelation Space, Dune Series, Gap Series, the Expanse and others. 
-- [b]Grand US Namelist[/b]: Updated version of Azrael's Grand US Namelist[u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Grand US Namelist[/url][/u] with updated NSC support and translation. 
+[h1]Released in V9.*[/h1]
+Just one namelist for V9.0, as I just started a new job.
+- [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
+
 
 - [hr][/hr]
-[h1]Coming in V9.*[/h1]
-- [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
+[h1]Coming in V10.*[/h1]
 - [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelistt[/url][/u] with updated NSC support and translation. 
+
+
+[hr][/hr]
+[h1]And Beyond[/h1]
+Planned beyond the upcoming namelists are:
+- D&D namelist with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
+- Video Game namelist (sourced from Halo, Star Citizen, and other space video games).
+- Pirates namelist with names from the golden age of piracy as well as from movies.
+- Eventually, maintenance mode: I plan to put this mod into a state where it is stable, updated to keep up with game versions, but only add namelists by request. This will allow me to work on plans I have to release the empires I've created that use some of these namelists as a mod and build empires for some that aren't used. 
 
 
 [hr][/hr]
@@ -52,6 +60,10 @@ The currently available namelists and their respective themes are as follows:
 - [b]Megacorp[/b]: Go-Getters will see the Value Add of this namelist and be sure to Disrupt their empires stagnant naming strategies with this list.
 - [b]Japanese[/b]: Names based on Japanese culture, people, places, and mythology. 
 - [b]Sci-Fi TV Mashup[/b]: A mashup of names from Star Wars, Star Trek, and Battlestar Galactica (may expand to include other shows in the future of requested).
+- [b]African[/b]: Names reflecting the rich tapestry of the Bantu, Massai, Zulu and other sub-Saharan African cultures.
+- [b]Sci-Fi Novel Mashup[/b]: Names from numerous sci-fi novels including the Revelation Space, Dune Series, Gap Series, the Expanse and others. 
+- [b]Grand US Namelist[/b]: Updated version of Azrael's Grand US Namelist[u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Grand US Namelist[/url][/u] with updated NSC support and translation. 
+- [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
 - [b]Translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
 
 [hr][/hr]
