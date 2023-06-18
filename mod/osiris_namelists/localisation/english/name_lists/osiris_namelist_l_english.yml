@@ -19,7 +19,7 @@
  name_list_osiris_bsg_desc:0 " "
  name_list_osiris_chatgpt:0 "ChatGPT (ONL)"
  name_list_osiris_chatgpt_desc:0 " "
- name_list_osiris_novelmashup:0 "Sci-Fi Novel Mashup (ONL)"
+ name_list_osiris_novelmashup:0 "Sci-Fi Novels (ONL)"
  name_list_osiris_novelmashup_desc:0 " "
  name_list_osiris_megacorp:0 "Megacorp (ONL)"
  name_list_osiris_megacorp_desc:0 " "
@@ -53,6 +53,8 @@
  name_list_osiris_startrek_desc:0 " "
  name_list_osiris_astrosci:0 "AstroSci (ONL)"
  name_list_osiris_astrosci_desc:0 " "
+ name_list_osiris_mongolian:0 "Mongolian (ONL)"
+ name_list_osiris_mongolian_desc:0 " "
  
 
 
