@@ -1,7 +1,7 @@
 ﻿### Azrael's HMM British (ONL)
 ### Created by azrael
 
-azrael_hmm_british_namelist = {
+osiris_hmm_british_namelist = {
 
 	ship_names = {
 

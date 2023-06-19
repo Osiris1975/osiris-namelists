@@ -1,7 +1,7 @@
 ﻿### Dumuzii's Xeno Greco-Roman (ONL)
 ### Created by dumuzii
 
-dumuzii_xeno_greek_roman = {
+osiris_xeno_greek_roman = {
 
 	ship_names = {
 
