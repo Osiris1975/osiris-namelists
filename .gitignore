@@ -4,3 +4,5 @@
 /assets/osiris_namelists.png
 /mod/osiris_namelists/._*
 csv/._*
+/csv/test.csv
+/external_mod_updates/
