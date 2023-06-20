@@ -1,4 +1,4 @@
-﻿### Sci-Fi Novel Mashup (ONL)
+﻿### Sci-Fi Novels (ONL)
 ### Created by osiris
 
 osiris_novelmashup = {

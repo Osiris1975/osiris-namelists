@@ -4,13 +4,15 @@
 
 [hr][/hr]
 [h1]Released in V10.*[/h1]
-Two namelists brought back from the dead:
-- [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750 Azrael's British Namelistt[/url][/u] with updated NSC support and translation. 
-- [b]Xeno Greco-Roman[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=792488516] [/url] Dumizii's Namesets - Xeno Greek-Roman [/u] with updated NSC support and translation. 
+Just one namelist for V9.0, as I just started a new job.
+- [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelist[/url][/u] with updated NSC support and translation. 
+- [b]Xeno Greco-Roman[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=792488516]Azrael's Dumuzii's Greek-Roman Namelist[/url][/u] with updated NSC support and translation. 
+
 
 - [hr][/hr]
 [h1]Coming in V11.*[/h1]
 - D&D namelist with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
+
 
 [hr][/hr]
 [h1]And Beyond[/h1]
@@ -62,8 +64,9 @@ The currently available namelists and their respective themes are as follows:
 - [b]Sci-Fi Novel Mashup[/b]: Names from numerous sci-fi novels including the Revelation Space, Dune Series, Gap Series, the Expanse and others. 
 - [b]Grand US Namelist[/b]: Updated version of Azrael's Grand US Namelist[u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Grand US Namelist[/url][/u] with updated NSC support and translation. 
 - [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
-
-- Plus translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
+- 
+- 
+- [b]Translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
 
 [hr][/hr]
 [h1]Namelist Requests[/h1]
@@ -77,6 +80,20 @@ yourself, all you need to know how to do is fill out a spreadsheet, and namelist
 This mod and translations were created with tool I created in Python. It's publicly available and free to use and can be found here:
 [u][url=https://github.com/Osiris1975/namelist-mod-gen]Namelist-Mod-Gen[/url][/u]. 
 
+[hr][/hr]
+[h1]Your Support is Appreciated![/h1]
+
+I love creating things that transport you to other worlds. I can only imagine the magnificent empires you've all made
+with these namelists! I'd love to keep producing creative content for you. I'm not just a modder, I'm a [url=http://www.aaleil.com/]published speculative 
+fiction author[/url] trying to find a greater voice and a larger audience. 
+
+This mod is the only Stellaris mod that translates text to all supported languages so that ALL fans of Stellaris can 
+enjoy it. Making that possible took dozens of hours of programming work, and the translation services and I pay for 
+Google translate API access to make that happen. 
+
+Your support would mean so much to me, both as a modder and a writer. 
+
+[url=https://www.paypal.com/donate/?business=N4EG3P9VDAUDY&no_recurring=0&item_name=I+love+creating+things+that+transport+people+to+other+worlds%2C+both+as+a+modder+and+an+author.+Donations+help+me+keep+doing+so.&currency_code=USD] [img]https://images.squarespace-cdn.com/content/v1/526839d5e4b0a6ea6c312276/1383271797057-WC0EDK8MCN7LPA7IUM3N/paypal-donate-button.png[/img] [/url]
 
 
 [hr][/hr]
