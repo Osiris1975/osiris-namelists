@@ -67,9 +67,9 @@ The currently available namelists and their respective themes are as follows:
 - [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
 - [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelist[/url][/u] with updated NSC support and translation. 
 - [b]Xeno Greco-Roman[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=792488516]Dumuzii's Greek-Roman Namelist[/url][/u] with updated NSC support and translation. 
-- [b]D&D namelist[/b]: with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
+- [b]D&D[/b]: with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
 - [b]Video Game[/b]: names sourced from Halo, Star Citizen, and other space video games.
-- [b]Pirates namelist[/b]: names from the golden age of piracy as well as from movies.
+- [b]Pirates[/b]: names from the golden age of piracy as well as from movies.
 
 - [b]Translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
 
