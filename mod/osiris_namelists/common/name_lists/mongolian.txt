@@ -1,4 +1,4 @@
-﻿### Mongolian
+﻿### Mongolian (ONL)
 ### Created by osiris
 
 osiris_mongolian = {

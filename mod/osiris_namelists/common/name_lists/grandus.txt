@@ -1,5 +1,5 @@
 ﻿### Grand US (Azrael/ONL)
-### Created by azrael
+### Created by osiris
 
 osiris_grandus = {
 
