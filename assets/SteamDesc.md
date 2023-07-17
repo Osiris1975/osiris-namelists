@@ -3,24 +3,25 @@
 [h3]compatível com português - compatible français - deutsch kompatibel - 日本語対応 - 한국어 호환 - kompatybilny z językiem polskim - русский совместимый - 兼容的 - Español compatible[/h3]
 
 [hr][/hr]
-[h1]Released in V10.*[/h1]
-Just one namelist for V9.0, as I just started a new job.
-- [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelist[/url][/u] with updated NSC support and translation. 
-- [b]Xeno Greco-Roman[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=792488516]Azrael's Dumuzii's Greek-Roman Namelist[/url][/u] with updated NSC support and translation. 
-
-
-- [hr][/hr]
-[h1]Coming in V11.*[/h1]
+[h1]Released in V11.*[/h1]
+The final planned release for this mod brings you the following changes:
 - D&D namelist with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
-
-
-[hr][/hr]
-[h1]And Beyond[/h1]
-Planned beyond the upcoming namelists are:
 - Video Game namelist (sourced from Halo, Star Citizen, and other space video games).
 - Pirates namelist with names from the golden age of piracy as well as from movies.
-- Eventually, maintenance mode: I plan to put this mod into a state where it is stable, updated to keep up with game versions, but only add namelists by request. This will allow me to work on plans I have to release the empires I've created that use some of these namelists as a mod and build empires for some that aren't used. 
+- Fix for some remaining/missed %SEQ% name bugs.
+- Fix for some names that contained double-spaces in them.
 
+[hr][/hr]
+[h1]Future Updates[/h1]
+From here on out, I will be updating this mod only as follows:
+-By requested namelist, so long as the request doesn't overlap with an existing namelist in this or another mod.
+-Maintenance to address bugs and keep up with the current version of Stellaris. 
+
+If you've enjoyed this mod, please keep an eye on this space in the future! I plan to provide a link where you can 
+lend non-monetary support sharing and/or subscribing to my Sci-Fi substack where I'll be republishing some of my 
+previously published work from various sci-fi magazines as well as new work. 
+
+I also intend to continue modding for Stellaris, namely, to create a mod that adds empires based on the namelists in this mod. 
 
 [hr][/hr]
 [h1]Description[/h1]
@@ -62,16 +63,23 @@ The currently available namelists and their respective themes are as follows:
 - [b]Sci-Fi TV Mashup[/b]: A mashup of names from Star Wars, Star Trek, and Battlestar Galactica (may expand to include other shows in the future of requested).
 - [b]African[/b]: Names reflecting the rich tapestry of the Bantu, Massai, Zulu and other sub-Saharan African cultures.
 - [b]Sci-Fi Novel Mashup[/b]: Names from numerous sci-fi novels including the Revelation Space, Dune Series, Gap Series, the Expanse and others. 
-- [b]Grand US Namelist[/b]: Updated version of Azrael's Grand US Namelist[u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Grand US Namelist[/url][/u] with updated NSC support and translation. 
+- [b]Grand US Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1793246834]Azrael's Grand US Namelist[/url][/u] with updated NSC support and translation. 
 - [b]Mongolian[/b]: Names to make your inner khan proud, based on Mongolian culture, mythos, and locations.
-- 
-- 
+- [b]HMM British Namelist[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1856515750]Azrael's British Namelist[/url][/u] with updated NSC support and translation. 
+- [b]Xeno Greco-Roman[/b]: Updated version of [u][url=https://steamcommunity.com/sharedfiles/filedetails/?id=792488516]Dumuzii's Greek-Roman Namelist[/url][/u] with updated NSC support and translation. 
+- [b]D&D[/b]: with monster names tied to ship names, with ship tiers mirroring D&D monster challenge ratings.
+- [b]Video Game[/b]: names sourced from Halo, Star Citizen, and other space video games.
+- [b]Pirates[/b]: names from the golden age of piracy as well as from movies.
+
 - [b]Translated versions of each namelist for each supported language[/b] (This is automated, your mileage may vary). 
 
 [hr][/hr]
 [h1]Namelist Requests[/h1]
 
-I'm happy to fulfill namelist requests when possible. Just post a request below. If you'd like to contribute a namelist 
+I'm happy to fulfill namelist requests when possible. Just post a request below. I'll usually fulfill a namelist 
+request if it's something completely unique to mine or other namelist mods.
+
+If you'd like to contribute a namelist 
 yourself, all you need to know how to do is fill out a spreadsheet, and namelist-mod-gen and I will do the rest.
 
 [hr][/hr]
@@ -79,6 +87,7 @@ yourself, all you need to know how to do is fill out a spreadsheet, and namelist
 
 This mod and translations were created with tool I created in Python. It's publicly available and free to use and can be found here:
 [u][url=https://github.com/Osiris1975/namelist-mod-gen]Namelist-Mod-Gen[/url][/u]. 
+
 
 [hr][/hr]
 [h1]References[/h1]
